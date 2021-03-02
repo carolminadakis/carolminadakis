@@ -33,8 +33,6 @@ I'm a **_Python_** 🐍 and **_Java_** ☕ lover, so I study both very hard, I'm
 ![Pycharm Badge](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![TrelloBadge](https://img.shields.io/badge/trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolminadakis&layout=compact)](https://github.com/carolminadakis/github-readme-stats)
-
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=carolminadakis.visitor-badge.issue.1)
 <!--
