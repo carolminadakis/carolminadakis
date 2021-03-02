@@ -8,17 +8,33 @@
 ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:carolminadakis@gmail.com)
 ](mailto:carolminadakis@gmail.com)
 
+
+## About me:
+My name is _**Ana Carolina Minadakis**_, but you can call me _Carol!_ 🙌🏼
+I'm a **_Python_** 🐍 and **_Java_** ☕ lover, so I study both very hard, I'm also taking _**System Analysis and Development.**_ classes.
+
+
+📌 Some curiosities about me, that you might be interested to know:
+ - I've worked as an English Teacher for 14 years. 👩🏼‍🏫
+ - I love studying and I do it for pleasure, so learning new things do not bother me at all. 📚
+ - I'm extremely disciplined and organized when it comes to work and study. 🤓
+ - I dream about becoming a developer, so I've decided to face my fears and make great effort to make my dream come true. 🥰
+ 
+ ## Skills and tecnologies
+
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![GitBadge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Github Badge](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Miro Badge](https://img.shields.io/badge/miro-050038?style=for-the-badge&logo=miro&logoColor=white)
+![Pycharm Badge](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![TrelloBadge](https://img.shields.io/badge/trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolminadakis&layout=compact)](https://github.com/carolminadakis/github-readme-stats)
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=carolminadakis.visitor-badge.issue.1)
 <!--
-**carolminadakis/carolminadakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
