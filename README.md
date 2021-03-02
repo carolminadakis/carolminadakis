@@ -1,17 +1,17 @@
 ![githubCarol](https://user-images.githubusercontent.com/60453802/109641435-75353500-7b30-11eb-9500-5e34b27cf49e.jpg)
-
-[
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-carolina-minadakis-053452a7/)
-](https://www.linkedin.com/in/ana-carolina-minadakis-053452a7/)[
-![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=17992221333)
-](https://api.whatsapp.com/send?phone=17992221333)[
-![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:carolminadakis@gmail.com)
-](mailto:carolminadakis@gmail.com)
+#  _Welcome to my Github!_ 🤗
 
 
 ## About me:
 My name is _**Ana Carolina Minadakis**_, but you can call me _Carol!_ 🙌🏼
 I'm a **_Python_** 🐍 and **_Java_** ☕ lover, so I study both very hard, I'm also taking _**System Analysis and Development.**_ classes.
+
+## Reach me out 👇🏼
+[ ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-carolina-minadakis-053452a7/)
+](https://www.linkedin.com/in/ana-carolina-minadakis-053452a7/)
+[ ![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=17992221333)](https://api.whatsapp.com/send?phone=17992221333)
+[ ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:carolminadakis@gmail.com)
+](mailto:carolminadakis@gmail.com)
 
 
 📌 Some curiosities about me, that you might be interested to know:
@@ -33,6 +33,9 @@ I'm a **_Python_** 🐍 and **_Java_** ☕ lover, so I study both very hard, I'm
 ![Pycharm Badge](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![TrelloBadge](https://img.shields.io/badge/trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
+ ## Stats Card
+ 
+![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolminadakis&count_private=true&show_icons=true&hide=prs,contribs&theme=omni)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=carolminadakis.visitor-badge.issue.1)
 <!--
