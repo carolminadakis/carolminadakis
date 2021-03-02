@@ -1,4 +1,12 @@
-### Hi there 👋
+![githubCarol](https://user-images.githubusercontent.com/60453802/109641435-75353500-7b30-11eb-9500-5e34b27cf49e.jpg)
+
+[
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-carolina-minadakis-053452a7/)
+](https://www.linkedin.com/in/ana-carolina-minadakis-053452a7/)[
+![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=17992221333)
+](https://api.whatsapp.com/send?phone=17992221333)[
+![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:carolminadakis@gmail.com)
+](mailto:carolminadakis@gmail.com)
 
 <!--
 **carolminadakis/carolminadakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
