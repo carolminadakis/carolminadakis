@@ -4,7 +4,7 @@
 
 ## About me:
 My name is _**Ana Carolina Minadakis**_, but you can call me _Carol!_ 🙌🏼
-I'm a **_Python_** 🐍 and **_Java_** ☕ lover, so I study both very hard, I'm also taking _**System Analysis and Development.**_ classes.
+I'm a **_Python_** 🐍 and **_Java_** ☕ lover, so I study both very hard, I'm also taking _**System Analysis and Development**_ classes.
 
 ## Reach me out 👇🏼
 [ ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-carolina-minadakis-053452a7/)
