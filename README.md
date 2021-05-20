@@ -1,4 +1,4 @@
-![githubCarol](https://user-images.githubusercontent.com/60453802/109641435-75353500-7b30-11eb-9500-5e34b27cf49e.jpg)
+
 #  _Welcome to my Github!_ 🤗
 
 
