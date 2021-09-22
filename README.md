@@ -4,7 +4,8 @@
 
 ## About me:
 My name is _**Ana Carolina Minadakis**_, but you can call me _Carol!_ 🙌🏼
-I'm a **_Python_** 🐍 and **_Java_** ☕ lover, so I study both very hard, I'm also taking _**System Analysis and Development**_ classes.
+
+Currently I've been working with iOS development 📱, which I love, but I also am a **_Python_** 🐍 and **_Java_** ☕ lover, I'm also taking _**System Analysis and Development**_ classes.
 
 ## Reach me out 👇🏼
 [ ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-carolina-minadakis-053452a7/)
@@ -15,7 +16,7 @@ I'm a **_Python_** 🐍 and **_Java_** ☕ lover, so I study both very hard, I'm
 
 
 📌 Some curiosities about me, that you might be interested to know:
- - I've worked as an English Teacher for 14 years. 👩🏼‍🏫
+ - I've worked as an English Teacher. 👩🏼‍🏫
  - I love studying and I do it for pleasure, so learning new things do not bother me at all. 📚
  - I'm extremely disciplined and organized when it comes to work and study. 🤓
  - I dream about becoming a developer, so I've decided to face my fears and make great effort to make my dream come true. 🥰
